@@ -31,7 +31,7 @@ This project is a FastAPI-based application that provides real-time weather upda
 
 3. **Run Docker Compose:**
     ```sh
-    docker-compose up --build
+    docker-compose up
     ```
 
    This will start the FastAPI application and a Redis instance.
